@@ -14,7 +14,8 @@ router.post('/login', function (req, res, next) {
   var user = {
     username:'admin',
     password:'admin'
-  }
+  };
+
   if(req.body.username === user.username && req.body.password === user.password){
     //req.session.user = user;
     return res.redirect('/home');
