@@ -48,6 +48,14 @@ app.use(function(req, res, next) {
   next(err);
 });
 
+//默认情况下Express.js不允许开发人员以字符串查询参数的形式请求路由
+//需要写个中间件
+app.use(function(req, res, next){
+  if(req.query.id){
+    console.log('以字符串查询参数的形式请求路由');
+  }
+});
+
 // error handlers
 
 // development error handler

@@ -1,0 +1,202 @@
+[
+  {
+    "title": "置顶\n\n\n\n        分享我用cnode社区api做微信小应用的入门过程",
+    "href": "https://cnodejs.org/topic/57ea257b3670ca3f44c5beb6",
+    "comment1": "这个可以给精华了"
+  },
+  {
+    "title": "置顶\n\n\n\n        JSConf 中国2016 PPT 分享汇总与发票问题",
+    "href": "https://cnodejs.org/topic/57cf84508624502e475135ef",
+    "comment1": "恕我眼拙，Keynote/PPT 在官网没有看到呀。"
+  },
+  {
+    "title": "置顶\n\n\n\n        NodeParty@北京 #16期总结",
+    "href": "https://cnodejs.org/topic/57e8dca7a61dacb35502be75",
+    "comment1": "顶一个，这次内容真不错，可以外地过不去～"
+  },
+  {
+    "title": "昨天直播的微信小程序文档",
+    "href": "https://cnodejs.org/topic/57ec696a6ab98805449b9580",
+    "comment1": "提交作业~"
+  },
+  {
+    "title": "本人刚爬了5万小说，想用node做个小说网站，算是来个node初体验，问题来了：谁能提供一个比较简单且牛逼的node框架（或者目录）？小弟在此多谢了",
+    "href": "https://cnodejs.org/topic/57eb90d26ab98805449b955a",
+    "comment1": "自己顶一下  木人回复"
+  },
+  {
+    "title": "基于mardown的文本编辑插件去哪里找",
+    "href": "https://cnodejs.org/topic/57eb80aa3670ca3f44c5bf33",
+    "comment1": "好像用的是这个 https://www.awesomes.cn/repo/lepture/editor"
+  },
+  {
+    "title": "微信小程序 cnode社区版",
+    "href": "https://cnodejs.org/topic/57ecd0376ab98805449b95cb",
+    "comment1": "👍"
+  },
+  {
+    "title": "微信小程序使用Promise",
+    "href": "https://cnodejs.org/topic/57eb4e4bea2fa420446d4371",
+    "comment1": "真不错"
+  },
+  {
+    "title": "nginx 每次post请求就502",
+    "href": "https://cnodejs.org/topic/57ecd8b36ab98805449b95d4",
+    "comment1": ""
+  },
+  {
+    "title": "将一段加/解密C#代码改写为Nodejs，提示",
+    "href": "https://cnodejs.org/topic/57eca01eea2fa420446d43dd",
+    "comment1": "为啥要转成node代码 直接用C＃代码不行吗？"
+  },
+  {
+    "title": "gulp 像这样的批量替换任务如何实现",
+    "href": "https://cnodejs.org/topic/57e4dd0dbf6e60030ebceee7",
+    "comment1": "试试这个\nvar newContent = content.replace('xxx', filename)\ncallback(null, newContent)\n别忘了用 gulp.dest()输出一下"
+  },
+  {
+    "title": "Node的异步思想容易理解，实际运用很难啊，请大神推荐一些资料，以供阅读",
+    "href": "https://cnodejs.org/topic/57e93967bb55ef3e1a17fcc3",
+    "comment1": "以前\n\n以后\n\n如果看不懂就请看这篇教程\n\n《深入浅出js（Node.js）异步流程控制》 https://github.com/i5ting/asynchronous-flow-control\n《Node.js最新技术栈之Promise篇》https://cnodejs.org/topic/560dbc826a1ed28204a1e7de"
+  },
+  {
+    "title": "nodejs express4运行久了无法访问",
+    "href": "https://cnodejs.org/topic/57ebba886ab98805449b956e",
+    "comment1": "看一下log查一下断开原因\n用PM2部署程序"
+  },
+  {
+    "title": "让node.js与其它语言进行通信(thrift)，并使用zookeeper做服务协同",
+    "href": "https://cnodejs.org/topic/501280dcf767cc9a51419013",
+    "comment1": "@vincentking 你想要的…"
+  },
+  {
+    "title": "react native run的时候 报错 ：xxx程序包 不存在",
+    "href": "https://cnodejs.org/topic/57eccc246ab98805449b95c7",
+    "comment1": ""
+  },
+  {
+    "title": "node的多进程疑问",
+    "href": "https://cnodejs.org/topic/57ecc4706ab98805449b95bd",
+    "comment1": "跟开多个终端没区别，唯一区别是\n一个是全从一个node进程fork出来\n另一个是从每个终端的bash进程fork出来"
+  },
+  {
+    "title": "微信协议接口开发有没有海量资源？",
+    "href": "https://cnodejs.org/topic/57ecb9b83670ca3f44c5bf79",
+    "comment1": "你要的都在这里 https://github.com/geeeeeeeeek/electronic-wechat，自己扒代码。论坛里也有分享过web的。请善用google"
+  },
+  {
+    "title": "短信验证模块",
+    "href": "https://cnodejs.org/topic/562adf63004756b058c237b1",
+    "comment1": "我现在的项目还是邮箱验证，正在考虑换成短信验证。\n考虑使用第三方短信平台 阿里大鱼（阿里巴巴） 是个不错的平台"
+  },
+  {
+    "title": "精华\n\n\n\n        Node.js最新Web技术栈（2016年4月）",
+    "href": "https://cnodejs.org/topic/56fdf66ec5f5b4a959e91771",
+    "comment1": "mark"
+  },
+  {
+    "title": "Node.js 7.0预计在9月30日发布，支持async/await，Koa 2.x也将随之发布",
+    "href": "https://cnodejs.org/topic/57e5e98c2528eed904783f35",
+    "comment1": "赞"
+  },
+  {
+    "title": "你用什么 VPN?",
+    "href": "https://cnodejs.org/topic/5514b132e26684ed7ff21bf2",
+    "comment1": "最近刚在DigitalOcean服务器上搭了个VPN, 感觉够用了。。。 可以参考这里"
+  },
+  {
+    "title": "根据spine动画编辑器的导出文件反向自动切图工具。",
+    "href": "https://cnodejs.org/topic/57eca187ea2fa420446d43de",
+    "comment1": ""
+  },
+  {
+    "title": "我的sails版本换了之后就出现了种错误",
+    "href": "https://cnodejs.org/topic/57ec828c6ab98805449b9592",
+    "comment1": "没人理我"
+  },
+  {
+    "title": "精华\n\n\n\n        我的微信小程序「初体验」",
+    "href": "https://cnodejs.org/topic/57eb9cddea2fa420446d43a4",
+    "comment1": "感谢楼主的分享，有个问题想请教一下\n我下载的微信开发工具，在添加项目的时候必须要填写AppID\n\n如果不填写AppID，或者乱填一个，添加的时候直接报错\n\n请问这是什么情况"
+  },
+  {
+    "title": "问问各位12寸的macbook开发node能带动吗？",
+    "href": "https://cnodejs.org/topic/57ea6a94d3c70faa43663eab",
+    "comment1": "洗洗睡吧 那个就上网本"
+  },
+  {
+    "title": "在 macOS 取消了 PPTP 后使用 chnroutes 手动分流",
+    "href": "https://cnodejs.org/topic/57eb87ec6ab98805449b9557",
+    "comment1": "自从之前有一段时间 vpn 非常不稳定，我就转向了 ss。现在一般是 ss + chrome插件（浏览器） + proxychains（命令行） 联合起来用。"
+  },
+  {
+    "title": "如何使用Pm2,安装顺序start 进程",
+    "href": "https://cnodejs.org/topic/57eb6661d3c70faa43663ef8",
+    "comment1": "没有看到pm2有相关实现。数据库最好还是一直运行吧。实在想要这个呢，就自己写个脚本，分分钟的事情"
+  },
+  {
+    "title": "循环查询时异步问题",
+    "href": "https://cnodejs.org/topic/57eb7d95ea2fa420446d4395",
+    "comment1": "你用DOCS查name的那步操作是异步的，执行时会按顺序执行，返回的结果就不一定了。"
+  },
+  {
+    "title": "精华\n\n\n\n        Node.js写爬虫系列",
+    "href": "https://cnodejs.org/topic/57c529cf9b447b634391c814",
+    "comment1": "缓存设计：使用dist目录\n上节解决的是爬取问题，已经可以成功取到信息了，那么如何处理爬取到的信息呢？\n初衷\n电子书的目的是为了阅读，我之所以要写这个爬虫，目的就是为了简单，直观，方便，无广告的安安静静的看本书而已。。。\n如果还记得这个初衷，那么一切就很简单了。\n爬取的信息有2种处理办法\n\n写到文件里，核心是文字，爬取下来是html，直接静态化是比较好的\n那么书的简介和章节呢？这部分可能是动态的\n\n生成book.json\n保存到数据库\n\n\n\n综合来看，写文件肯定是最简单的办法。为了便于大家学习，我们从简，少给大家挖坑，简单粗暴点。\n创建目录\n先想想，如果是多本书，多个分类存比较好呢？\n\ndist\n\n0 玄幻\n\n330 大主宰\n\n\n\n\n\n这样的结构是不是会更清楚，更加灵活？\n创建多级目录,比如dist/0/330\n推荐使用mkdirp模块\nfunction mkdir(folder){\n  var mkdirp = require('mkdirp');\n    \n  mkdirp('dist/' + folder, function (err) {\n      if (err) console.error(err)\n      else console.log('pow!')\n  });\n}\n\nmkdir('i am mkdir folder')\n执行\n$ node examples/2/mkdir.js\npow!\n\n$ ls dist \n0                 css               js\n6                 i am mkdir folder reader.html\n写文件\nvar fs = require('fs')\n\nfunction write_chapter(chapter, content){\n  content = content.replace('[笔趣库手机版 m.biquku.com]', '')\n  \n  fs.writeFile('dist/i am mkdir folder/' + chapter + '.html', content, function (err) {\n    if (err) throw err;\n    console.log('It\\'s saved!');\n  });\n}\n\nvar content = \"&nbsp;&nbsp;&nbsp;&nbsp;第一千两百五十二章<br><br>&nbsp;&nbsp;&nbsp;&nbsp;轰轰！<br><br>&nbsp;&nbsp;&nbsp;&nbsp;灵战子的低吼声，犹如雷鸣一般在这天地之间回荡，一股股磅礴浩瀚的灵力，也是犹如洪流一般，不断的从其体内呼啸而出，引得空间震荡。◇↓，<br><br>&nbsp;&nbsp;&nbsp;&nbsp;此时的灵战子，双目精光涌动，神采飞扬，再没了先前的那种虚弱之感，显然，借助着那所谓的“战祭”，他直接是在顷刻间就将自身状态恢复到了巅峰。<br><br>&nbsp;&nbsp;&nbsp;&nbsp;之前消耗的灵力，也是再度充盈了他的身躯\"\n\nwrite_chapter('1', content)\n\n执行\n$ node examples/2/create_file.js \nIt's saved!\n写文件就是这么简单\n写json文件\nvar fs = require('fs')\n\nfunction write_json(book){\n  var content =  JSON.stringify(book, null, 4); // Indented 4 spaces\n  \n  fs.writeFile('dist/i am mkdir folder/book.json', content, function (err) {\n    if (err) throw err;\n    console.log('It\\'s saved!');\n  });\n}\n\n\nvar book = { title: '大主宰',\n  author: '作    者：天蚕土豆',\n  update_time: '更新时间：2016-07-10',\n  latest_chapter: '最新章节：<a href=\"4091426.html\" target=\"_blank\">第一千两百六十二章 大陆洗礼</a>',\n  intro: '\\n\\t\\t\\t\\t\\t<p>    大千世界，位面交汇，万族林立，群雄荟萃，一位位来自下位面的天之至尊，在这无尽世界，演绎着令人向往的传奇，追求着那主宰之路。\\n    无尽火域，炎帝执掌，万火焚苍穹。\\n    武境之内，武祖之威，震慑乾坤。\\n    西天之殿，百战之皇，战威无可敌。\\n    北荒之丘，万墓之地，不死之主镇天地。\\n    ......\\n    少年自北灵境而出，骑九幽冥雀，闯向了那精彩绝伦的纷纭世界，主宰之路，谁主沉浮？\\n    大千世界，万道争锋，吾为大主宰。\\n    ..................\\n</p>\\n\\t\\t\\t\\t\\t<p>各位书友要是觉得《大主宰》还不错的话请不要忘记向您QQ群和微博里的朋友推荐哦！</p>\\n\\t\\t\\t\\t',\n  chapters: \n   [ { num: '153064', title: '第一章已发。', url: '153064.html' },\n     { num: '153065', title: '第一章 北灵院', url: '153065.html' },\n     { num: '153066', title: '第二章 被踢出灵路的少年', url: '153066.html' },\n     { num: '153067', title: '第三章 牧域', url: '153067.html' },\n  { num: '153068', title: '第四章 大浮屠诀', url: '153068.html' }\n  ]\n};\n\n  \nwrite_json(book)\n\n执行\n$ node examples/2/create_json.js \nIt's saved!\n\n生成的book.json如下\n{\n    \"title\": \"大主宰\",\n    \"author\": \"作    者：天蚕土豆\",\n    \"update_time\": \"更新时间：2016-07-10\",\n    \"latest_chapter\": \"最新章节：<a href=\\\"4091426.html\\\" target=\\\"_blank\\\">第一千两百六十二章 大陆洗礼</a>\",\n    \"intro\": \"\\n\\t\\t\\t\\t\\t<p>    大千世界，位面交汇，万族林立，群雄荟萃，一位位来自下位面的天之至尊，在这无尽世界，演绎着令人向往的传奇，追求着那主宰之路。\\n    无尽火域，炎帝执掌，万火焚苍穹。\\n    武境之内，武祖之威，震慑乾坤。\\n    西天之殿，百战之皇，战威无可敌。\\n    北荒之丘，万墓之地，不死之主镇天地。\\n    ......\\n    少年自北灵境而出，骑九幽冥雀，闯向了那精彩绝伦的纷纭世界，主宰之路，谁主沉浮？\\n    大千世界，万道争锋，吾为大主宰。\\n    ..................\\n</p>\\n\\t\\t\\t\\t\\t<p>各位书友要是觉得《大主宰》还不错的话请不要忘记向您QQ群和微博里的朋友推荐哦！</p>\\n\\t\\t\\t\\t\",\n    \"chapters\": [\n        {\n            \"num\": \"153064\",\n            \"title\": \"第一章已发。\",\n            \"url\": \"153064.html\"\n        },\n        {\n            \"num\": \"153065\",\n            \"title\": \"第一章 北灵院\",\n            \"url\": \"153065.html\"\n        },\n        {\n            \"num\": \"153066\",\n            \"title\": \"第二章 被踢出灵路的少年\",\n            \"url\": \"153066.html\"\n        },\n        {\n            \"num\": \"153067\",\n            \"title\": \"第三章 牧域\",\n            \"url\": \"153067.html\"\n        },\n        {\n            \"num\": \"153068\",\n            \"title\": \"第四章 大浮屠诀\",\n            \"url\": \"153068.html\"\n        }\n    ]\n}\n讲方法抽到utils.js里\nvar fs = require('fs')\nvar debug = require('debug')('crawler')\n\nexports.mkdir = function(folder){\n  var mkdirp = require('mkdirp');\n    \n  mkdirp('dist/' + folder, function (err) {\n      if (err) console.error(err)\n      else debug('pow!')\n  });\n}\n\nexports.write_chapter = function(chapter, content){\n  // content = content.replace('[笔趣库手机版 m.biquku.com]', '')\n  \n  fs.writeFile('dist/0/330/' + chapter.num + '.html', content, function (err) {\n    if (err) throw err;\n    debug('It\\'s saved!');\n  });\n}\n\nexports.write_config = function(book){\n  var content =  JSON.stringify(book, null, 4); // Indented 4 spaces\n  fs.writeFile('dist/0/330/book.json', content, function (err) {\n    if (err) throw err;\n    debug('It\\'s saved!');\n  });\n}\n\n注意区分exports.xxx和module.exports即可。\n改写chapter-one.js\nvar Crawler = require(\"crawler\");\nvar jsdom = require('jsdom');\nvar utils = require('./utils')\n\nvar current_book = { }\n\nvar c = new Crawler({\n    jQuery: jsdom,\n    maxConnections : 100,\n    forceUTF8:true,\n  // incomingEncoding: 'gb2312',\n    // This will be called for each crawled page\n    callback : function (error, result, $) {\n      var urls = $('#list a');\n      // console.log(urls)\n      \n      utils.mkdir('0/330');\n      \n      current_book.title = $('#maininfo h1').text()\n      current_book.author = $('#info p').eq(0).text()\n      current_book.update_time = $('#info p').eq(2).text()\n      current_book.latest_chapter = $('#info p').eq(3).html()\n      current_book.intro = $('#intro').html()\n      current_book.chapters = [];\n\n      for(var i = 0; i< urls.length; i++){\n        var url = urls[i]\n\n        var _url = $(url).attr('href')+\"\";\n        var num = _url.replace('.html','');\n        var title = $(url).text();\n\n\n        current_book.chapters.push({\n          num: num,\n          title: title,\n          url: _url\n        })\n      }\n\n      utils.write_config(current_book);\n      // console.log(current_book)\n      // 为了演示，模拟一个，不如1k多条，慢死了\n      var chapter = { num: '4063307', title: '第一千两百五十二章 现世！', url: '4063307.html' }\n      one(chapter);\n    }\n});\n\nfunction one(chapter){\n  console.log(chapter)\n  c.queue([{\n    uri: 'http://www.biquku.com/0/330/' + chapter.num + '.html',\n    jQuery: jsdom,\n    forceUTF8:true,\n    // The global callback won't be called\n    callback: function (error, result, $) {\n      var content = $('#content').html();\n      console.log(content)\n      \n      utils.write_chapter(chapter, content);\n      \n      process.exit()\n    }\n  }]);\n}\n\nfunction start(){\n  c.queue('http://www.biquku.com/0/330/');\n}\n\nstart()\n代码里有3处\n\nutils.mkdir(‘0/330’);\nutils.write_config(current_book);\nutils.write_chapter(chapter, content);\n\n此3处即缓存处理。\n总结\n文件操作即io操作，是Node.js的基础，初学者一般不太会用到，这里通过实例，讲文件夹创建，写文件进行举例，希望大家能够学会。\n\n再一次最小化问题：本章只处理缓存\n爬虫和缓存，分步处理\n\n不忘初衷，方得善终。\n\n为了简单，直观，方便，无广告的安安静静的看本书而已。。。\n\n可是还不能看。。。别急，下一章就做这事儿"
+  },
+  {
+    "title": "nodeclub安装好 如何进入admin后台？",
+    "href": "https://cnodejs.org/topic/57ea8873d3c70faa43663ebb",
+    "comment1": "目测没有后台管理吧  设置管理员在配置当中"
+  },
+  {
+    "title": "express 不设置托管静态资源时，index.html文件找不到<script>标签引用的src下的目录",
+    "href": "https://cnodejs.org/topic/57eb6fd1ea2fa420446d438b",
+    "comment1": "换成 <script src=\"./jquery.js\">试试"
+  },
+  {
+    "title": "微博 模拟登陆",
+    "href": "https://cnodejs.org/topic/57ebc68fea2fa420446d43af",
+    "comment1": "不错!"
+  },
+  {
+    "title": "简单的内存缓存模块 - Smache",
+    "href": "https://cnodejs.org/topic/57ec00286ab98805449b957b",
+    "comment1": "和这个很像 https://github.com/auchenberg/expirable-hash-table"
+  },
+  {
+    "title": "使用ctrl＋z中止正在执行的grunt任务，后出现的问题",
+    "href": "https://cnodejs.org/topic/564a74331ba2ef107f854d06",
+    "comment1": "我也遇到这个问题了，我是用n安装Node的时候中途出错了，然后终端报错和你一样。\n我的解决办法是\nn rm 版本号   //把所有的node删除\n再重新安装就解决了"
+  },
+  {
+    "title": "談談mongoose的promise化",
+    "href": "https://cnodejs.org/topic/532911255552a20d4102c768",
+    "comment1": "mongoose本身就支持promise：\n    var promise = Model.find().exec();\n    promise.then(\n      function(result) {\n        // on resolve\n      },\n      function(err) {\n        // on reject\n      }\n    );"
+  },
+  {
+    "title": "React组件写法的讨论",
+    "href": "https://cnodejs.org/topic/57e4a4e3c1760d1f0e4d69d0",
+    "comment1": "其实就相当于 {post} = this.props"
+  },
+  {
+    "title": "用Vue.js开发微信app界面",
+    "href": "https://cnodejs.org/topic/57eb6543d3c70faa43663ef5",
+    "comment1": "不错"
+  },
+  {
+    "title": "async/await异步相关问题请教",
+    "href": "https://cnodejs.org/topic/57eb78a43670ca3f44c5bf2e",
+    "comment1": "你是不是刷新了一下"
+  },
+  {
+    "title": "初学node，自己制作了一个简单漫画网站，献丑一下",
+    "href": "https://cnodejs.org/topic/57e7b53276ae7dce55a5bb8f",
+    "comment1": "把漫画文件夹，拷贝到程序根目录/cartoon文件夹下。然后在上传界面，照片名，取漫画文件夹的名字，网站可以自动关联文件夹下的所有图片。文件夹必须设置三层目录结构。例子：孔雀王-》01-》图片):"
+  },
+  {
+    "title": "国外比较大的node交流社区，类似cnode的，是哪里啊?",
+    "href": "https://cnodejs.org/topic/57eb36433670ca3f44c5bf16",
+    "comment1": "没人理啊"
+  }
+]

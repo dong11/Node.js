@@ -26,4 +26,6 @@ day2:
       EventEmitter基本使用:
         events.EventEmitter是一个简单的事件发射器的实现，具有addListener、on、once、removeListener、emit等方法，
         开发者可以很方便的调用这些API监听某个事件或者发射某个事件。
+        
+day3:模块
     
